@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\administrator\desktop\for_testing\saber interactive\calculator\calculator\calculator\myform.cpp(6): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator.vcxproj -> C:\Users\administrator\Desktop\For_testing\saber interactive\Calculator\Calculator\x64\Debug\Calculator.exe
